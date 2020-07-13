@@ -46,6 +46,7 @@
 
 - [x] tree-cli -> Directory Tree
 - [x] axios -> API access
+- [x] CORS -> API access permition present on back-end
 - [x] @babel/plugin-transform-runtime
 
 ---
@@ -131,8 +132,11 @@ ignored: directory (214)
 ---
 ## Project in function
 
+#### initializing the project
 ![Project in function][project-in-function]
 
+#### Project working
+![project-in-function-02][project-in-function-02]
 ---
 ## License
 This project is under the MIT license. See the [LICENSE](./LICENSE) for more information.
@@ -150,10 +154,9 @@ This project is under the MIT license. See the [LICENSE](./LICENSE) for more inf
 [yarn]: https://yarnpkg.com/
 [npm]: #
 
-[project-in-function]: #
+[project-in-function]: https://user-images.githubusercontent.com/16024701/87347253-46c70300-c529-11ea-8584-17c09ea21038.gif
 
-[initialized-project]: #
-[project-in-function-03]: #
+[project-in-function-02]: https://user-images.githubusercontent.com/16024701/87347430-973e6080-c529-11ea-8351-d8a7def36a30.gif
 [projectFunctionInVideo]: #
 
 [MylinkedIn]:https://www.linkedin.com/in/yan-brito/
