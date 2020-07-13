@@ -70,7 +70,7 @@ $ cd bootcamp-gostack-11-challenge-03
 $ yarn
 
 # Run the Project into terminal
-$ yarn dev
+$ yarn start
 
 # Run automated test using terminal
 $ yarn test
@@ -90,12 +90,32 @@ $ yarn tree -l 4 -o out.txt --ignore node_modules,.gitignore,.gitattributes
 #### Result after run comand present in top:
 
 ```bash
+├── LICENSE
+├── README.md
+├── babel.config.js
+├── jest.config.js
+├── jsconfig.json
+├── package.json
+├── public
+|  └── index.html
+├── src
+|  ├── App.js
+|  ├── __tests__
+|  |  └── App.test.js
+|  ├── index.js
+|  ├── services
+|  |  └── api.js
+|  ├── setupTests.js
+|  └── styles.css
+└── yarn.lock
+
+directory: 3257 file: 13721
+
+ignored: directory (214)
 
 ```
 ---
 ## Project in function
-
-### **Initialize project and Insomnia route tests**
 
 ![Project in function][project-in-function]
 
