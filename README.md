@@ -46,11 +46,13 @@
 
 - [x] tree-cli -> Directory Tree
 - [x] axios -> API access
+- [x] @babel/plugin-transform-runtime
 
 ---
 ## Developed Features
 
-- [x] Create new projects
+- [x] Create new repository
+- [x] Remove repositories
 
 ---
 ## Running for First Time
@@ -59,8 +61,20 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 After prepare your enviroment execute this comands from you command line:
 
 ```bash
+# Clone this back-end repository
+$ git clone https://github.com/SkullDarth/bootcamp-gostack-11-challenge-02.git
 
-# Clone this repository
+# Go into the back-end repository
+$ cd bootcamp-gostack-11-challenge-02
+
+# Install dependencies
+$ yarn
+
+# Run the Project into terminal
+$ yarn dev
+
+# After start the back-end aplication
+# Clone this repository front-end repository
 $ git clone https://github.com/SkullDarth/bootcamp-gostack-11-challenge-03.git
 
 # Go into the repository
